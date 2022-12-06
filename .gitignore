@@ -1,0 +1,24 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.ADS Store
+
+### STS ##
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### Intel11J IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+## VS Code ###
+.vscode/
+
+###ACLI LOGS ###
+logs/
