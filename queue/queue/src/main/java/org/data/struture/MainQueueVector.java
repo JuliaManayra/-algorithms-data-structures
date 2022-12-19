@@ -20,7 +20,7 @@ public class MainQueueVector {
         queueVector.setValueOnQueue(10);
         queueVector.printAllElementsOfQueue();
 
-        System.out.println("Add 10 elements");
+        System.out.println("Add 4 elements");
         queueVector.setValueOnQueue(55);
         queueVector.setValueOnQueue(67);
         queueVector.setValueOnQueue(90);
