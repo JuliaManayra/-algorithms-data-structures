@@ -14,7 +14,7 @@ public class StackVector {
     }
 
     public void printAllElementsOfStack(){
-        for (int i = 0; i < top; i++) {
+        for (int i = top-1; i >= 0; i--) {
             System.out.println(this.stack[i]);
         }
     }
